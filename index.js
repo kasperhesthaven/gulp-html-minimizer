@@ -16,15 +16,9 @@ module.exports = (options = {}) => {
 
 		(async () => {
 			try {
-				options.file = file.path || options.file;
-
-				const result = await htmlMinifier.minify(
-					options.file.contents,
-					options
+				file.contents = Buffer.from(
+					htmlMinifier.minify(file.contents.toString(), options)
 				);
-				console.log(result);
-				//file.contents = Buffer.from(result.css);
-
 				setImmediate(callback, null, file);
 			} catch (error) {
 				process.stderr.write(
