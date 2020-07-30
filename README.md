@@ -1,3 +1,5 @@
+![Build](https://github.com/kasperhesthaven/gulp-html-minimizer/workflows/NPM%20CI/badge.svg) ![Dependencies](https://img.shields.io/librariesio/release/npm/gulp-html-minimizer) ![NPM Version](https://img.shields.io/npm/v/gulp-html-minimizer)
+
 # gulp-html-minimizer
 
 Gulp plugin to minify HTML using the actively maintained [HTMLMinifier fork](https://github.com/DanielRuf/html-minifier-terser).
