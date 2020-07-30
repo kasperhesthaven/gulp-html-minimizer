@@ -1,4 +1,4 @@
-![Build](https://github.com/kasperhesthaven/gulp-html-minimizer/workflows/NPM%20CI/badge.svg) ![Dependencies](https://img.shields.io/librariesio/release/npm/gulp-html-minimizer) ![NPM Version](https://img.shields.io/npm/v/gulp-html-minimizer)
+![Build](https://github.com/kasperhesthaven/gulp-html-minimizer/workflows/NPM%20CD/badge.svg) ![Dependencies](https://img.shields.io/librariesio/release/npm/gulp-html-minimizer) ![NPM Version](https://img.shields.io/npm/v/gulp-html-minimizer)
 
 # gulp-html-minimizer
 

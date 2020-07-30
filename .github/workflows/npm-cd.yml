@@ -1,4 +1,4 @@
-name: NPM CI
+name: NPM CD
 
 on:
   release:
