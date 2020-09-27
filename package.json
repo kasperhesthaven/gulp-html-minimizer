@@ -1,6 +1,6 @@
 {
   "name": "gulp-html-minimizer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Gulp plugin to minify HTML using the HTMLMinifier minifier.",
   "author": "Kasper Hesthaven",
   "repository": "kasperhesthaven/gulp-html-minimizer",
@@ -30,5 +30,9 @@
   "devDependencies": {
     "mocha": "^8.0.1",
     "vinyl": "^2.2.0"
-  }
+  },
+  "files": [
+    "index.js",
+    "LICENSE"
+  ]
 }
