@@ -28,7 +28,7 @@
     "plugin-error": "^1.0.1"
   },
   "devDependencies": {
-    "mocha": "^9.0.0",
+    "mocha": "^10.1.0",
     "vinyl": "^2.2.0"
   },
   "files": [
